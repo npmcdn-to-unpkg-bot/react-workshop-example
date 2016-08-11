@@ -18,6 +18,9 @@ npm start
 
 Open your browser and navigate to http://localhost:8080/
 
+## Other way cooler React examples
+- [OSX Calculator by Michael Jackson](http://codepen.io/mjijackson/full/xOzyGX), ES6 source code [here](http://codepen.io/mjijackson/pen/xOzyGX.babel)
+
 ## Additional React resources
 - [Official React Site](https://facebook.github.io/react/index.html)
 - [Redux](https://github.com/reactjs/redux), simplified implementation of Flux with great documentation and tutorial videos
